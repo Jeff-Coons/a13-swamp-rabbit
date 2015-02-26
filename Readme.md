@@ -1,3 +1,5 @@
-## Yo, I'm a Readme
+## Swamp Rabbit Bike Shop
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+A landing page for a local bike shop. This was the first group project at The Iron Yard.
+
+Built by: <a href="https://github.com/plove13x">Patrick Love</a>, <a href="https://github.com/MC3D">Mady Chapman</a>, <a href="https://github.com/chad-m">Chad Mitchell</a>, and <a href="https://github.com/Jeff-Coons">Jeff Coons</a>.
